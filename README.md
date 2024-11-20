@@ -1,3 +1,3 @@
 # Simple-Shop
 -----------------------------
-A simple E-shop using react.
+A simple Bootstrap E-shop template using react.
