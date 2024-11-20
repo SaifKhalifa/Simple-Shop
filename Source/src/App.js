@@ -1,6 +1,6 @@
 import './App.css';
 import Card from './Components/Card';
-import NavBar from './Components/Nav';
+import NavBar from './Components/Common/NavBar';
 import SiteHead from './Components/SiteHeader';
 
 
